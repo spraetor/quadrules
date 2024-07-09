@@ -1,0 +1,18 @@
+# Site settings
+title: Quadrature Rule Database
+short-title: QuadRules
+email: simon.praetorius@tu-dresden.de
+description: > # this means to ignore newlines until "baseurl:"
+  This site contains a collection of quadrature rules collected from
+  the literature and stored in an accessible and machine readable format.
+baseurl: "/quadrules/" # the subpath of your site, e.g. /blog/
+url: "http://spraetor.github.io"
+#twitter_username: jekyllrb
+author: Simon Praetorius
+github_username:  spraetor
+
+# Build settings
+markdown: kramdown
+
+sass:
+    style: compressed
